@@ -1,4 +1,4 @@
-# Descomplica_angular
+# Descomplica_angular_P&R_aula10_Dev-Mobile
 Atividade prática da aula 10 de Desemvolvimento Mobile
 # Documentação Técnica do Aplicativo Angular
 

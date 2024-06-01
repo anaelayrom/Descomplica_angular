@@ -1,6 +1,4 @@
 # Descomplica_angular
-@@ -1,2 +1,160 @@
-# descomplica_angular
 Atividade prática da aula 10 de Desemvolvimento Mobile
 # Documentação Técnica do Aplicativo Angular
 
